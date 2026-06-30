@@ -1,0 +1,5 @@
+1. Download Python -- according to your system configuration
+2. Check Python Version -- python --version
+3. In VSCode downloaded extensions : Python , Jupyter , Code Runner
+4. For Jupyter on terminal -- pip install jupyter
+5. Check The Jupyter Version :: jupyter --version 
